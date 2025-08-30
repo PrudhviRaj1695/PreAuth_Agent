@@ -106,7 +106,7 @@ async def authorize_procedure(patient_id: int):
     try:
         logger.info(f"Processing authorization for patient {patient_id}")
         
-        # Get patient data
+        # Get patient data dscvwscw
         patient = MOCK_PATIENTS.get(patient_id)
         if not patient:
             raise HTTPException(status_code=404, detail=f"Patient {patient_id} not found")
