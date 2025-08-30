@@ -20,6 +20,5 @@ pydantic==2.5.0
 python-dotenv==1.0.0
 azure-keyvault-secrets==4.7.0
 
-# Lightweight AI (free tier)
-scikit-learn==1.3.0
+# Simple math operations (no sklearn needed)
 numpy==1.24.3
