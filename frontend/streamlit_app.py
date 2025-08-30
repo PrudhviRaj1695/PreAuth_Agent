@@ -287,7 +287,7 @@ def get_patient_history(patient_id):
         st.error(f"❌ Error: {str(e)}")
 
 def display_patient_history(result):
-    """Display patient history"""
+
     st.subheader(f"📋 History for Patient {result['patient_id']}")
     
     if result['authorization_count'] == 0:
@@ -296,7 +296,6 @@ def display_patient_history(result):
     
     st.metric("Total Authorizations", result['authorization_count'])
     
-    # History timeline
     df = pd.DataFrame(result['history'])
     if not df.empty:
         df['timestamp'] = pd.to_datetime(df['timestamp'])
