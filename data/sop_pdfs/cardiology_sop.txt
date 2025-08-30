@@ -1,0 +1,23 @@
+CARDIOLOGY PRIOR AUTHORIZATION GUIDELINES
+
+Echocardiogram (CPT 93306):
+- APPROVED if:
+  * Patient age >50 with hypertension (ICD I10)
+  * Previous cardiac procedures documented
+  * Abnormal EKG findings
+  * Heart failure symptoms present
+- DENIED if:
+  * Routine screening without symptoms
+  * Patient age <35 with no cardiac history
+  * Recent normal echo within 6 months
+
+Cardiac Catheterization (CPT 93458):
+- APPROVED if:
+  * Abnormal stress test results
+  * Chest pain with risk factors
+  * Prior MI or stent placement
+  * Acute coronary syndrome
+- DENIED if:
+  * No documented cardiac symptoms
+  * Recent normal cardiac imaging
+  * Low-risk patient profile

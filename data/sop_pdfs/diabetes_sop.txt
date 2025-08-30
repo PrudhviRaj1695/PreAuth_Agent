@@ -1,0 +1,23 @@
+DIABETES MANAGEMENT PRIOR AUTHORIZATION
+
+HbA1c Testing (CPT 83036):
+- APPROVED if:
+  * Diabetes diagnosis (E11.x codes)
+  * HbA1c >7.0 requiring monitoring
+  * New medication initiation
+  * Quarterly monitoring for poor control
+- DENIED if:
+  * HbA1c <6.0 with stable control
+  * Testing within 30 days
+  * No diabetes diagnosis
+
+Continuous Glucose Monitor (CPT 95250):
+- APPROVED if:
+  * Type 1 diabetes
+  * Type 2 with HbA1c >8.0
+  * Frequent hypoglycemic episodes
+  * Multiple daily insulin injections
+- DENIED if:
+  * Well-controlled diabetes (HbA1c <7.0)
+  * No documented glucose variability
+  * Diet-controlled diabetes only

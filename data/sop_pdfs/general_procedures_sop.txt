@@ -1,0 +1,23 @@
+GENERAL PROCEDURES AUTHORIZATION
+
+Office Visits (CPT 99214):
+- APPROVED if:
+  * Established patient with chronic conditions
+  * Follow-up for abnormal lab results
+  * Medication management required
+  * Multiple diagnoses requiring evaluation
+- DENIED if:
+  * Routine annual physical (use 99395)
+  * No medical necessity documented
+  * Simple prescription refills
+
+Laboratory Tests:
+- APPROVED if:
+  * Age >40 annual screening
+  * Chronic disease monitoring
+  * Abnormal previous results
+  * Medication monitoring requirements
+- DENIED if:
+  * Excessive frequency without indication
+  * Screening in low-risk patients
+  * Duplicate recent testing
